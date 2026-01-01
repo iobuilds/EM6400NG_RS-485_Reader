@@ -1,0 +1,23 @@
+[
+  { "name": "Active Energy Delivered", "address": 2698, "count": 2, "fc": 3, "dtype": "float32", "scale": 1.0, "unit": "kWh" },
+  { "name": "Active Energy Received", "address": 2700, "count": 2, "fc": 3, "dtype": "float32", "scale": 1.0, "unit": "kWh" },
+  { "name": "Active Energy Total", "address": 2702, "count": 2, "fc": 3, "dtype": "float32", "scale": 1.0, "unit": "kWh" },
+
+  { "name": "Current A", "address": 3000, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "A" },
+  { "name": "Current B", "address": 3002, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "A" },
+  { "name": "Current C", "address": 3004, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "A" },
+  { "name": "Current Avg", "address": 3008, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "A" },
+
+  { "name": "Voltage A-B", "address": 3018, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "V" },
+  { "name": "Voltage B-C", "address": 3020, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "V" },
+  { "name": "Voltage C-A", "address": 3022, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "V" },
+  { "name": "Voltage L-L Avg", "address": 3024, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "V" },
+
+  { "name": "Active Power A", "address": 3052, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "kW" },
+  { "name": "Active Power B", "address": 3054, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "kW" },
+  { "name": "Active Power C", "address": 3056, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "kW" },
+  { "name": "Active Power Total", "address": 3058, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "kW" },
+
+  { "name": "Reactive Power Total", "address": 3066, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "kVAR" },
+  { "name": "Apparent Power Total", "address": 3074, "count": 2, "fc": 4, "dtype": "float32", "scale": 1.0, "unit": "kVA" }
+]
